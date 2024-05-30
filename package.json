@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "watch": "nodemon"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.13",
+    "inquirer": "^8.2.4",
+    "nodemon": "^2.0.20",
+    "ts-node": "^8.10.2"
+  },
+  "dependencies": {
+    "consola": "^2.15.3"
+  }
+}
